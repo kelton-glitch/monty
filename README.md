@@ -1,0 +1,1 @@
+Monthy is a scripting language that is first compiled into Mnty byte codes. It relies on a unique stack with specific instriuctions to manipulate it. The goal her is to create an interpreter for Monty ByteCodes files
